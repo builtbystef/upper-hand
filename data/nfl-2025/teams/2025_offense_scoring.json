@@ -1,0 +1,322 @@
+[
+  {
+    "season": 2025,
+    "team": "ATL",
+    "team_name": "Atlanta Falcons",
+    "nickname": "Falcons",
+    "Rsh TD": 17,
+    "Rec TD": 19,
+    "Tot TD": 37,
+    "2-PT": 2
+  },
+  {
+    "season": 2025,
+    "team": "AZ",
+    "team_name": "Arizona Cardinals",
+    "nickname": "Cardinals",
+    "Rsh TD": 9,
+    "Rec TD": 29,
+    "Tot TD": 40,
+    "2-PT": 1
+  },
+  {
+    "season": 2025,
+    "team": "BAL",
+    "team_name": "Baltimore Ravens",
+    "nickname": "Ravens",
+    "Rsh TD": 23,
+    "Rec TD": 23,
+    "Tot TD": 48,
+    "2-PT": 1
+  },
+  {
+    "season": 2025,
+    "team": "BUF",
+    "team_name": "Buffalo Bills",
+    "nickname": "Bills",
+    "Rsh TD": 30,
+    "Rec TD": 29,
+    "Tot TD": 62,
+    "2-PT": 2
+  },
+  {
+    "season": 2025,
+    "team": "CAR",
+    "team_name": "Carolina Panthers",
+    "nickname": "Panthers",
+    "Rsh TD": 9,
+    "Rec TD": 24,
+    "Tot TD": 35,
+    "2-PT": 1
+  },
+  {
+    "season": 2025,
+    "team": "CHI",
+    "team_name": "Chicago Bears",
+    "nickname": "Bears",
+    "Rsh TD": 19,
+    "Rec TD": 28,
+    "Tot TD": 49,
+    "2-PT": 3
+  },
+  {
+    "season": 2025,
+    "team": "CIN",
+    "team_name": "Cincinnati Bengals",
+    "nickname": "Bengals",
+    "Rsh TD": 11,
+    "Rec TD": 36,
+    "Tot TD": 49,
+    "2-PT": 2
+  },
+  {
+    "season": 2025,
+    "team": "CLE",
+    "team_name": "Cleveland Browns",
+    "nickname": "Browns",
+    "Rsh TD": 10,
+    "Rec TD": 16,
+    "Tot TD": 30,
+    "2-PT": 1
+  },
+  {
+    "season": 2025,
+    "team": "DAL",
+    "team_name": "Dallas Cowboys",
+    "nickname": "Cowboys",
+    "Rsh TD": 18,
+    "Rec TD": 31,
+    "Tot TD": 51,
+    "2-PT": 3
+  },
+  {
+    "season": 2025,
+    "team": "DEN",
+    "team_name": "Denver Broncos",
+    "nickname": "Broncos",
+    "Rsh TD": 18,
+    "Rec TD": 25,
+    "Tot TD": 45,
+    "2-PT": 4
+  },
+  {
+    "season": 2025,
+    "team": "DET",
+    "team_name": "Detroit Lions",
+    "nickname": "Lions",
+    "Rsh TD": 21,
+    "Rec TD": 35,
+    "Tot TD": 57,
+    "2-PT": 1
+  },
+  {
+    "season": 2025,
+    "team": "GB",
+    "team_name": "Green Bay Packers",
+    "nickname": "Packers",
+    "Rsh TD": 18,
+    "Rec TD": 26,
+    "Tot TD": 44,
+    "2-PT": 2
+  },
+  {
+    "season": 2025,
+    "team": "HOU",
+    "team_name": "Houston Texans",
+    "nickname": "Texans",
+    "Rsh TD": 9,
+    "Rec TD": 24,
+    "Tot TD": 38,
+    "2-PT": 1
+  },
+  {
+    "season": 2025,
+    "team": "IND",
+    "team_name": "Indianapolis Colts",
+    "nickname": "Colts",
+    "Rsh TD": 27,
+    "Rec TD": 25,
+    "Tot TD": 53,
+    "2-PT": 2
+  },
+  {
+    "season": 2025,
+    "team": "JAX",
+    "team_name": "Jacksonville Jaguars",
+    "nickname": "Jaguars",
+    "Rsh TD": 22,
+    "Rec TD": 29,
+    "Tot TD": 55,
+    "2-PT": 1
+  },
+  {
+    "season": 2025,
+    "team": "KC",
+    "team_name": "Kansas City Chiefs",
+    "nickname": "Chiefs",
+    "Rsh TD": 15,
+    "Rec TD": 23,
+    "Tot TD": 38,
+    "2-PT": 2
+  },
+  {
+    "season": 2025,
+    "team": "LA",
+    "team_name": "Los Angeles Rams",
+    "nickname": "Rams",
+    "Rsh TD": 17,
+    "Rec TD": 46,
+    "Tot TD": 65,
+    "2-PT": 0
+  },
+  {
+    "season": 2025,
+    "team": "LAC",
+    "team_name": "Los Angeles Chargers",
+    "nickname": "Chargers",
+    "Rsh TD": 10,
+    "Rec TD": 26,
+    "Tot TD": 36,
+    "2-PT": 1
+  },
+  {
+    "season": 2025,
+    "team": "LV",
+    "team_name": "Las Vegas Raiders",
+    "nickname": "Raiders",
+    "Rsh TD": 5,
+    "Rec TD": 20,
+    "Tot TD": 25,
+    "2-PT": 1
+  },
+  {
+    "season": 2025,
+    "team": "MIA",
+    "team_name": "Miami Dolphins",
+    "nickname": "Dolphins",
+    "Rsh TD": 14,
+    "Rec TD": 23,
+    "Tot TD": 38,
+    "2-PT": 1
+  },
+  {
+    "season": 2025,
+    "team": "MIN",
+    "team_name": "Minnesota Vikings",
+    "nickname": "Vikings",
+    "Rsh TD": 15,
+    "Rec TD": 18,
+    "Tot TD": 35,
+    "2-PT": 2
+  },
+  {
+    "season": 2025,
+    "team": "NE",
+    "team_name": "New England Patriots",
+    "nickname": "Patriots",
+    "Rsh TD": 22,
+    "Rec TD": 31,
+    "Tot TD": 58,
+    "2-PT": 3
+  },
+  {
+    "season": 2025,
+    "team": "NO",
+    "team_name": "New Orleans Saints",
+    "nickname": "Saints",
+    "Rsh TD": 9,
+    "Rec TD": 19,
+    "Tot TD": 31,
+    "2-PT": 1
+  },
+  {
+    "season": 2025,
+    "team": "NYG",
+    "team_name": "New York Giants",
+    "nickname": "Giants",
+    "Rsh TD": 22,
+    "Rec TD": 21,
+    "Tot TD": 45,
+    "2-PT": 3
+  },
+  {
+    "season": 2025,
+    "team": "NYJ",
+    "team_name": "New York Jets",
+    "nickname": "Jets",
+    "Rsh TD": 11,
+    "Rec TD": 15,
+    "Tot TD": 30,
+    "2-PT": 6
+  },
+  {
+    "season": 2025,
+    "team": "PHI",
+    "team_name": "Philadelphia Eagles",
+    "nickname": "Eagles",
+    "Rsh TD": 17,
+    "Rec TD": 26,
+    "Tot TD": 46,
+    "2-PT": 1
+  },
+  {
+    "season": 2025,
+    "team": "PIT",
+    "team_name": "Pittsburgh Steelers",
+    "nickname": "Steelers",
+    "Rsh TD": 16,
+    "Rec TD": 26,
+    "Tot TD": 45,
+    "2-PT": 1
+  },
+  {
+    "season": 2025,
+    "team": "SEA",
+    "team_name": "Seattle Seahawks",
+    "nickname": "Seahawks",
+    "Rsh TD": 19,
+    "Rec TD": 25,
+    "Tot TD": 51,
+    "2-PT": 3
+  },
+  {
+    "season": 2025,
+    "team": "SF",
+    "team_name": "San Francisco 49ers",
+    "nickname": "49ers",
+    "Rsh TD": 15,
+    "Rec TD": 33,
+    "Tot TD": 49,
+    "2-PT": 2
+  },
+  {
+    "season": 2025,
+    "team": "TB",
+    "team_name": "Tampa Bay Buccaneers",
+    "nickname": "Buccaneers",
+    "Rsh TD": 13,
+    "Rec TD": 26,
+    "Tot TD": 41,
+    "2-PT": 2
+  },
+  {
+    "season": 2025,
+    "team": "TEN",
+    "team_name": "Tennessee Titans",
+    "nickname": "Titans",
+    "Rsh TD": 9,
+    "Rec TD": 15,
+    "Tot TD": 28,
+    "2-PT": 0
+  },
+  {
+    "season": 2025,
+    "team": "WAS",
+    "team_name": "Washington Commanders",
+    "nickname": "Commanders",
+    "Rsh TD": 20,
+    "Rec TD": 19,
+    "Tot TD": 41,
+    "2-PT": 3
+  }
+]

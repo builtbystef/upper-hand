@@ -1,0 +1,322 @@
+[
+  {
+    "season": 2025,
+    "team": "ATL",
+    "team_name": "Atlanta Falcons",
+    "nickname": "Falcons",
+    "Sck": 57,
+    "Comb": 1038,
+    "Asst": 423,
+    "Solo": 673
+  },
+  {
+    "season": 2025,
+    "team": "AZ",
+    "team_name": "Arizona Cardinals",
+    "nickname": "Cardinals",
+    "Sck": 30,
+    "Comb": 1115,
+    "Asst": 515,
+    "Solo": 648
+  },
+  {
+    "season": 2025,
+    "team": "BAL",
+    "team_name": "Baltimore Ravens",
+    "nickname": "Ravens",
+    "Sck": 30,
+    "Comb": 1057,
+    "Asst": 446,
+    "Solo": 685
+  },
+  {
+    "season": 2025,
+    "team": "BUF",
+    "team_name": "Buffalo Bills",
+    "nickname": "Bills",
+    "Sck": 36,
+    "Comb": 921,
+    "Asst": 376,
+    "Solo": 612
+  },
+  {
+    "season": 2025,
+    "team": "CAR",
+    "team_name": "Carolina Panthers",
+    "nickname": "Panthers",
+    "Sck": 30,
+    "Comb": 1066,
+    "Asst": 499,
+    "Solo": 626
+  },
+  {
+    "season": 2025,
+    "team": "CHI",
+    "team_name": "Chicago Bears",
+    "nickname": "Bears",
+    "Sck": 35,
+    "Comb": 1024,
+    "Asst": 421,
+    "Solo": 642
+  },
+  {
+    "season": 2025,
+    "team": "CIN",
+    "team_name": "Cincinnati Bengals",
+    "nickname": "Bengals",
+    "Sck": 35,
+    "Comb": 1073,
+    "Asst": 501,
+    "Solo": 633
+  },
+  {
+    "season": 2025,
+    "team": "CLE",
+    "team_name": "Cleveland Browns",
+    "nickname": "Browns",
+    "Sck": 53,
+    "Comb": 1070,
+    "Asst": 491,
+    "Solo": 611
+  },
+  {
+    "season": 2025,
+    "team": "DAL",
+    "team_name": "Dallas Cowboys",
+    "nickname": "Cowboys",
+    "Sck": 35,
+    "Comb": 1054,
+    "Asst": 464,
+    "Solo": 654
+  },
+  {
+    "season": 2025,
+    "team": "DEN",
+    "team_name": "Denver Broncos",
+    "nickname": "Broncos",
+    "Sck": 68,
+    "Comb": 1028,
+    "Asst": 473,
+    "Solo": 621
+  },
+  {
+    "season": 2025,
+    "team": "DET",
+    "team_name": "Detroit Lions",
+    "nickname": "Lions",
+    "Sck": 49,
+    "Comb": 1001,
+    "Asst": 394,
+    "Solo": 674
+  },
+  {
+    "season": 2025,
+    "team": "GB",
+    "team_name": "Green Bay Packers",
+    "nickname": "Packers",
+    "Sck": 36,
+    "Comb": 1097,
+    "Asst": 504,
+    "Solo": 638
+  },
+  {
+    "season": 2025,
+    "team": "HOU",
+    "team_name": "Houston Texans",
+    "nickname": "Texans",
+    "Sck": 47,
+    "Comb": 955,
+    "Asst": 418,
+    "Solo": 601
+  },
+  {
+    "season": 2025,
+    "team": "IND",
+    "team_name": "Indianapolis Colts",
+    "nickname": "Colts",
+    "Sck": 39,
+    "Comb": 1074,
+    "Asst": 440,
+    "Solo": 717
+  },
+  {
+    "season": 2025,
+    "team": "JAX",
+    "team_name": "Jacksonville Jaguars",
+    "nickname": "Jaguars",
+    "Sck": 32,
+    "Comb": 989,
+    "Asst": 438,
+    "Solo": 601
+  },
+  {
+    "season": 2025,
+    "team": "KC",
+    "team_name": "Kansas City Chiefs",
+    "nickname": "Chiefs",
+    "Sck": 35,
+    "Comb": 1026,
+    "Asst": 448,
+    "Solo": 638
+  },
+  {
+    "season": 2025,
+    "team": "LA",
+    "team_name": "Los Angeles Rams",
+    "nickname": "Rams",
+    "Sck": 47,
+    "Comb": 1065,
+    "Asst": 450,
+    "Solo": 651
+  },
+  {
+    "season": 2025,
+    "team": "LAC",
+    "team_name": "Los Angeles Chargers",
+    "nickname": "Chargers",
+    "Sck": 45,
+    "Comb": 937,
+    "Asst": 374,
+    "Solo": 626
+  },
+  {
+    "season": 2025,
+    "team": "LV",
+    "team_name": "Las Vegas Raiders",
+    "nickname": "Raiders",
+    "Sck": 37,
+    "Comb": 1113,
+    "Asst": 471,
+    "Solo": 696
+  },
+  {
+    "season": 2025,
+    "team": "MIA",
+    "team_name": "Miami Dolphins",
+    "nickname": "Dolphins",
+    "Sck": 39,
+    "Comb": 1082,
+    "Asst": 474,
+    "Solo": 663
+  },
+  {
+    "season": 2025,
+    "team": "MIN",
+    "team_name": "Minnesota Vikings",
+    "nickname": "Vikings",
+    "Sck": 49,
+    "Comb": 1106,
+    "Asst": 526,
+    "Solo": 647
+  },
+  {
+    "season": 2025,
+    "team": "NE",
+    "team_name": "New England Patriots",
+    "nickname": "Patriots",
+    "Sck": 35,
+    "Comb": 986,
+    "Asst": 426,
+    "Solo": 609
+  },
+  {
+    "season": 2025,
+    "team": "NO",
+    "team_name": "New Orleans Saints",
+    "nickname": "Saints",
+    "Sck": 45,
+    "Comb": 1081,
+    "Asst": 464,
+    "Solo": 670
+  },
+  {
+    "season": 2025,
+    "team": "NYG",
+    "team_name": "New York Giants",
+    "nickname": "Giants",
+    "Sck": 39,
+    "Comb": 1036,
+    "Asst": 410,
+    "Solo": 675
+  },
+  {
+    "season": 2025,
+    "team": "NYJ",
+    "team_name": "New York Jets",
+    "nickname": "Jets",
+    "Sck": 26,
+    "Comb": 1108,
+    "Asst": 496,
+    "Solo": 662
+  },
+  {
+    "season": 2025,
+    "team": "PHI",
+    "team_name": "Philadelphia Eagles",
+    "nickname": "Eagles",
+    "Sck": 42,
+    "Comb": 1034,
+    "Asst": 424,
+    "Solo": 677
+  },
+  {
+    "season": 2025,
+    "team": "PIT",
+    "team_name": "Pittsburgh Steelers",
+    "nickname": "Steelers",
+    "Sck": 48,
+    "Comb": 1106,
+    "Asst": 478,
+    "Solo": 697
+  },
+  {
+    "season": 2025,
+    "team": "SEA",
+    "team_name": "Seattle Seahawks",
+    "nickname": "Seahawks",
+    "Sck": 47,
+    "Comb": 1058,
+    "Asst": 469,
+    "Solo": 666
+  },
+  {
+    "season": 2025,
+    "team": "SF",
+    "team_name": "San Francisco 49ers",
+    "nickname": "49ers",
+    "Sck": 20,
+    "Comb": 1047,
+    "Asst": 475,
+    "Solo": 637
+  },
+  {
+    "season": 2025,
+    "team": "TB",
+    "team_name": "Tampa Bay Buccaneers",
+    "nickname": "Buccaneers",
+    "Sck": 37,
+    "Comb": 955,
+    "Asst": 362,
+    "Solo": 653
+  },
+  {
+    "season": 2025,
+    "team": "TEN",
+    "team_name": "Tennessee Titans",
+    "nickname": "Titans",
+    "Sck": 42,
+    "Comb": 1025,
+    "Asst": 422,
+    "Solo": 655
+  },
+  {
+    "season": 2025,
+    "team": "WAS",
+    "team_name": "Washington Commanders",
+    "nickname": "Commanders",
+    "Sck": 42,
+    "Comb": 1117,
+    "Asst": 510,
+    "Solo": 675
+  }
+]

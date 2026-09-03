@@ -1,0 +1,33 @@
+season,team,team_name,nickname,INT,INT TD,INT Yds,Lng,Lng_num,Lng_td
+2025,ATL,Atlanta Falcons,Falcons,16,1,173,59T,59,True
+2025,AZ,Arizona Cardinals,Cardinals,10,0,51,18,18,False
+2025,BAL,Baltimore Ravens,Ravens,11,1,242,61T,61,True
+2025,BUF,Buffalo Bills,Bills,13,1,140,63T,63,True
+2025,CAR,Carolina Panthers,Panthers,15,2,220,54T,54,True
+2025,CHI,Chicago Bears,Bears,23,2,348,74,74,False
+2025,CIN,Cincinnati Bengals,Bengals,13,1,125,39T,39,True
+2025,CLE,Cleveland Browns,Browns,11,3,292,97,97,False
+2025,DAL,Dallas Cowboys,Cowboys,6,1,120,68T,68,True
+2025,DEN,Denver Broncos,Broncos,10,1,168,45T,45,True
+2025,DET,Detroit Lions,Lions,13,0,132,58,58,False
+2025,GB,Green Bay Packers,Packers,7,0,0,0,0,False
+2025,HOU,Houston Texans,Texans,19,1,126,31T,31,True
+2025,IND,Indianapolis Colts,Colts,14,1,107,32T,32,True
+2025,JAX,Jacksonville Jaguars,Jaguars,22,2,312,99,99,False
+2025,KC,Kansas City Chiefs,Chiefs,10,0,64,23,23,False
+2025,LA,Los Angeles Rams,Rams,16,1,240,56T,56,True
+2025,LAC,Los Angeles Chargers,Chargers,19,0,127,27,27,False
+2025,LV,Las Vegas Raiders,Raiders,8,0,63,26,26,False
+2025,MIA,Miami Dolphins,Dolphins,9,0,102,38,38,False
+2025,MIN,Minnesota Vikings,Vikings,8,1,154,87T,87,True
+2025,NE,New England Patriots,Patriots,10,1,156,37T,37,True
+2025,NO,New Orleans Saints,Saints,10,1,99,49T,49,True
+2025,NYG,New York Giants,Giants,9,0,226,68,68,False
+2025,NYJ,New York Jets,Jets,0,0,0,0,0,False
+2025,PHI,Philadelphia Eagles,Eagles,12,1,127,42T,42,True
+2025,PIT,Pittsburgh Steelers,Steelers,15,1,182,73T,73,True
+2025,SEA,Seattle Seahawks,Seahawks,18,1,252,85T,85,True
+2025,SF,San Francisco 49ers,49ers,6,1,168,74T,74,True
+2025,TB,Tampa Bay Buccaneers,Buccaneers,13,2,120,55,55,False
+2025,TEN,Tennessee Titans,Titans,6,1,76,35T,35,True
+2025,WAS,Washington Commanders,Commanders,8,0,113,55,55,False

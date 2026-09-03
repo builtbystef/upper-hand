@@ -1,0 +1,33 @@
+season,team,team_name,nickname,Net Avg,Net Yds,Punts,Avg,Lng,Lng_num,Lng_td,Yds,IN 20,OOB,Dn,TB,FC,Ret,RetY,TD,P Blk
+2025,ATL,Atlanta Falcons,Falcons,40.6,2598,64,45.1,69,69,False,2889,34,8,6,3,17,30,231,0,0
+2025,AZ,Arizona Cardinals,Cardinals,43.3,2555,59,49.6,65,65,False,2927,21,4,6,3,17,29,312,0,1
+2025,BAL,Baltimore Ravens,Ravens,44.9,2378,53,50.1,74,74,False,2657,24,7,11,6,6,23,159,0,0
+2025,BUF,Buffalo Bills,Bills,41,2011,49,44.7,62,62,False,2189,21,5,7,3,18,16,118,0,0
+2025,CAR,Carolina Panthers,Panthers,40.5,2269,56,47.2,68,68,False,2642,27,6,7,3,16,24,313,1,0
+2025,CHI,Chicago Bears,Bears,40.4,2424,60,47.8,69,69,False,2870,21,10,8,7,9,26,306,0,0
+2025,CIN,Cincinnati Bengals,Bengals,42.9,2788,65,50.5,70,70,False,3285,28,4,10,11,12,28,277,0,0
+2025,CLE,Cleveland Browns,Browns,37.6,3423,91,45.8,67,67,False,4165,23,14,8,11,17,41,522,2,2
+2025,DAL,Dallas Cowboys,Cowboys,42.6,1748,41,48.6,65,65,False,1994,14,1,1,0,13,26,246,0,0
+2025,DEN,Denver Broncos,Broncos,41.1,3085,75,47.6,76,76,False,3573,30,11,3,9,23,29,308,0,0
+2025,DET,Detroit Lions,Lions,42.8,2398,56,46.6,70,70,False,2611,28,2,4,2,26,22,173,0,0
+2025,GB,Green Bay Packers,Packers,43.9,2151,49,51.7,72,72,False,2533,18,5,3,8,12,21,222,0,0
+2025,HOU,Houston Texans,Texans,41.6,2998,72,47.6,73,73,False,3424,30,10,10,5,14,33,326,1,0
+2025,IND,Indianapolis Colts,Colts,44.7,1966,44,48.8,59,59,False,2146,22,4,3,3,15,19,120,0,0
+2025,JAX,Jacksonville Jaguars,Jaguars,43,2580,60,48,66,66,False,2878,22,13,5,6,9,27,178,0,0
+2025,KC,Kansas City Chiefs,Chiefs,41.3,2313,56,47.6,69,69,False,2664,25,5,8,3,16,24,291,0,0
+2025,LA,Los Angeles Rams,Rams,38,1899,50,46.3,68,68,False,2315,20,10,5,4,10,21,336,1,0
+2025,LAC,Los Angeles Chargers,Chargers,41.4,2486,60,47.8,60,60,False,2871,23,5,7,4,23,21,305,1,0
+2025,LV,Las Vegas Raiders,Raiders,40.7,2929,72,47.4,64,64,False,3409,24,18,4,4,13,33,400,2,2
+2025,MIA,Miami Dolphins,Dolphins,42.6,2686,63,47.7,64,64,False,3005,21,5,11,3,19,25,259,1,0
+2025,MIN,Minnesota Vikings,Vikings,44.5,2893,65,49,77,77,False,3184,25,7,6,3,22,27,231,0,0
+2025,NE,New England Patriots,Patriots,40.6,2071,51,47.4,73,73,False,2416,21,6,4,4,15,22,265,1,0
+2025,NO,New Orleans Saints,Saints,38.6,2163,56,44.8,61,61,False,2511,18,6,10,4,11,25,268,1,2
+2025,NYG,New York Giants,Giants,36.9,2179,59,44.5,69,69,False,2627,17,6,4,4,18,27,368,2,0
+2025,NYJ,New York Jets,Jets,43.2,3064,71,46.7,72,72,False,3317,32,1,18,6,25,21,133,0,0
+2025,PHI,Philadelphia Eagles,Eagles,42.8,3081,72,49.9,70,70,False,3591,20,12,7,8,11,34,350,0,0
+2025,PIT,Pittsburgh Steelers,Steelers,41.7,2588,62,45.5,67,67,False,2823,26,3,9,3,22,25,175,0,0
+2025,SEA,Seattle Seahawks,Seahawks,42.2,2193,52,49,60,60,False,2548,20,6,7,3,17,19,295,1,0
+2025,SF,San Francisco 49ers,49ers,36.8,1618,44,43.6,55,55,False,1919,22,1,4,1,16,22,281,1,0
+2025,TB,Tampa Bay Buccaneers,Buccaneers,40.2,2530,63,44.7,62,62,False,2815,29,4,10,4,21,24,205,0,2
+2025,TEN,Tennessee Titans,Titans,40.4,3147,78,46.8,65,65,False,3653,22,6,6,7,21,38,366,0,0
+2025,WAS,Washington Commanders,Commanders,43.9,2457,56,47.3,71,71,False,2651,29,0,9,4,18,25,114,0,0

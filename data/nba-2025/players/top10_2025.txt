@@ -1,0 +1,11 @@
+# Top ten players, 2025. One name per line, in rank order. Lines starting with # are ignored.
+Shai Gilgeous-Alexander
+Nikola Jokić
+Victor Wembanyama
+Luka Dončić
+Cade Cunningham
+Jaylen Brown
+Kawhi Leonard
+Donovan Mitchell
+Jalen Brunson
+Kevin Durant

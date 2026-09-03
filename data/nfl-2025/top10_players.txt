@@ -1,0 +1,11 @@
+# nfl.com profile slugs (https://www.nfl.com/players/{slug}/) for the top-10 player set
+matthew-stafford      # QB, Rams
+myles-garrett         # EDGE, Browns
+jaxon-smith-njigba    # WR, Seahawks
+puka-nacua            # WR, Rams
+drake-maye            # QB, Patriots
+bijan-robinson        # RB, Falcons
+will-anderson-jr      # EDGE, Texans
+christian-mccaffrey   # RB, 49ers
+james-cook            # RB, Bills
+trey-mcbride          # TE, Cardinals

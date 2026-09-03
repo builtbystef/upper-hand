@@ -1,0 +1,290 @@
+[
+  {
+    "season": 2025,
+    "team": "ATL",
+    "team_name": "Atlanta Falcons",
+    "nickname": "Falcons",
+    "FR TD": 0,
+    "SFTY": 0,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "AZ",
+    "team_name": "Arizona Cardinals",
+    "nickname": "Cardinals",
+    "FR TD": 2,
+    "SFTY": 1,
+    "INT TD": 0
+  },
+  {
+    "season": 2025,
+    "team": "BAL",
+    "team_name": "Baltimore Ravens",
+    "nickname": "Ravens",
+    "FR TD": 1,
+    "SFTY": 0,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "BUF",
+    "team_name": "Buffalo Bills",
+    "nickname": "Bills",
+    "FR TD": 1,
+    "SFTY": 0,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "CAR",
+    "team_name": "Carolina Panthers",
+    "nickname": "Panthers",
+    "FR TD": 0,
+    "SFTY": 0,
+    "INT TD": 2
+  },
+  {
+    "season": 2025,
+    "team": "CHI",
+    "team_name": "Chicago Bears",
+    "nickname": "Bears",
+    "FR TD": 0,
+    "SFTY": 0,
+    "INT TD": 2
+  },
+  {
+    "season": 2025,
+    "team": "CIN",
+    "team_name": "Cincinnati Bengals",
+    "nickname": "Bengals",
+    "FR TD": 0,
+    "SFTY": 0,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "CLE",
+    "team_name": "Cleveland Browns",
+    "nickname": "Browns",
+    "FR TD": 1,
+    "SFTY": 0,
+    "INT TD": 3
+  },
+  {
+    "season": 2025,
+    "team": "DAL",
+    "team_name": "Dallas Cowboys",
+    "nickname": "Cowboys",
+    "FR TD": 0,
+    "SFTY": 1,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "DEN",
+    "team_name": "Denver Broncos",
+    "nickname": "Broncos",
+    "FR TD": 0,
+    "SFTY": 0,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "DET",
+    "team_name": "Detroit Lions",
+    "nickname": "Lions",
+    "FR TD": 0,
+    "SFTY": 1,
+    "INT TD": 0
+  },
+  {
+    "season": 2025,
+    "team": "GB",
+    "team_name": "Green Bay Packers",
+    "nickname": "Packers",
+    "FR TD": 0,
+    "SFTY": 0,
+    "INT TD": 0
+  },
+  {
+    "season": 2025,
+    "team": "HOU",
+    "team_name": "Houston Texans",
+    "nickname": "Texans",
+    "FR TD": 3,
+    "SFTY": 0,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "IND",
+    "team_name": "Indianapolis Colts",
+    "nickname": "Colts",
+    "FR TD": 0,
+    "SFTY": 0,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "JAX",
+    "team_name": "Jacksonville Jaguars",
+    "nickname": "Jaguars",
+    "FR TD": 0,
+    "SFTY": 1,
+    "INT TD": 2
+  },
+  {
+    "season": 2025,
+    "team": "KC",
+    "team_name": "Kansas City Chiefs",
+    "nickname": "Chiefs",
+    "FR TD": 0,
+    "SFTY": 0,
+    "INT TD": 0
+  },
+  {
+    "season": 2025,
+    "team": "LA",
+    "team_name": "Los Angeles Rams",
+    "nickname": "Rams",
+    "FR TD": 0,
+    "SFTY": 0,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "LAC",
+    "team_name": "Los Angeles Chargers",
+    "nickname": "Chargers",
+    "FR TD": 0,
+    "SFTY": 1,
+    "INT TD": 0
+  },
+  {
+    "season": 2025,
+    "team": "LV",
+    "team_name": "Las Vegas Raiders",
+    "nickname": "Raiders",
+    "FR TD": 0,
+    "SFTY": 1,
+    "INT TD": 0
+  },
+  {
+    "season": 2025,
+    "team": "MIA",
+    "team_name": "Miami Dolphins",
+    "nickname": "Dolphins",
+    "FR TD": 0,
+    "SFTY": 0,
+    "INT TD": 0
+  },
+  {
+    "season": 2025,
+    "team": "MIN",
+    "team_name": "Minnesota Vikings",
+    "nickname": "Vikings",
+    "FR TD": 1,
+    "SFTY": 0,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "NE",
+    "team_name": "New England Patriots",
+    "nickname": "Patriots",
+    "FR TD": 1,
+    "SFTY": 1,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "NO",
+    "team_name": "New Orleans Saints",
+    "nickname": "Saints",
+    "FR TD": 2,
+    "SFTY": 0,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "NYG",
+    "team_name": "New York Giants",
+    "nickname": "Giants",
+    "FR TD": 1,
+    "SFTY": 0,
+    "INT TD": 0
+  },
+  {
+    "season": 2025,
+    "team": "NYJ",
+    "team_name": "New York Jets",
+    "nickname": "Jets",
+    "FR TD": 0,
+    "SFTY": 1,
+    "INT TD": 0
+  },
+  {
+    "season": 2025,
+    "team": "PHI",
+    "team_name": "Philadelphia Eagles",
+    "nickname": "Eagles",
+    "FR TD": 0,
+    "SFTY": 0,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "PIT",
+    "team_name": "Pittsburgh Steelers",
+    "nickname": "Steelers",
+    "FR TD": 2,
+    "SFTY": 1,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "SEA",
+    "team_name": "Seattle Seahawks",
+    "nickname": "Seahawks",
+    "FR TD": 2,
+    "SFTY": 0,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "SF",
+    "team_name": "San Francisco 49ers",
+    "nickname": "49ers",
+    "FR TD": 0,
+    "SFTY": 0,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "TB",
+    "team_name": "Tampa Bay Buccaneers",
+    "nickname": "Buccaneers",
+    "FR TD": 0,
+    "SFTY": 1,
+    "INT TD": 2
+  },
+  {
+    "season": 2025,
+    "team": "TEN",
+    "team_name": "Tennessee Titans",
+    "nickname": "Titans",
+    "FR TD": 1,
+    "SFTY": 1,
+    "INT TD": 1
+  },
+  {
+    "season": 2025,
+    "team": "WAS",
+    "team_name": "Washington Commanders",
+    "nickname": "Commanders",
+    "FR TD": 0,
+    "SFTY": 1,
+    "INT TD": 0
+  }
+]

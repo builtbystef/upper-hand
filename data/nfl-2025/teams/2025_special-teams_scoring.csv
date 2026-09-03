@@ -1,0 +1,33 @@
+season,team,team_name,nickname,FGM,FG %,XPM,XP Pct,KRet TD,PRet T
+2025,ATL,Atlanta Falcons,Falcons,32,82,31,93.9,0,0
+2025,AZ,Arizona Cardinals,Cardinals,25,75.8,36,100,0,0
+2025,BAL,Baltimore Ravens,Ravens,30,88.2,44,95.6,0,0
+2025,BUF,Buffalo Bills,Bills,19,90.5,48,90.6,1,0
+2025,CAR,Carolina Panthers,Panthers,24,82.8,27,90,0,0
+2025,CHI,Chicago Bears,Bears,33,84.6,42,100,0,0
+2025,CIN,Cincinnati Bengals,Bengals,25,89.3,41,93.2,1,0
+2025,CLE,Cleveland Browns,Browns,24,88.9,25,96.2,0,0
+2025,DAL,Dallas Cowboys,Cowboys,36,85.7,47,97.9,0,0
+2025,DEN,Denver Broncos,Broncos,28,87.5,39,100,0,1
+2025,DET,Detroit Lions,Lions,27,79.4,54,96.4,0,1
+2025,GB,Green Bay Packers,Packers,28,82.4,39,92.9,0,0
+2025,HOU,Houston Texans,Texans,48,92.3,30,100,0,0
+2025,IND,Indianapolis Colts,Colts,34,94.4,42,93.3,0,0
+2025,JAX,Jacksonville Jaguars,Jaguars,30,88.2,50,98,0,2
+2025,KC,Kansas City Chiefs,Chiefs,33,86.8,31,88.6,0,0
+2025,LA,Los Angeles Rams,Rams,22,78.6,62,95.4,0,0
+2025,LAC,Los Angeles Chargers,Chargers,38,92.7,34,97.1,0,0
+2025,LV,Las Vegas Raiders,Raiders,22,81.5,21,95.4,0,0
+2025,MIA,Miami Dolphins,Dolphins,27,93.1,34,97.1,0,1
+2025,MIN,Minnesota Vikings,Vikings,33,94.3,31,100,0,0
+2025,NE,New England Patriots,Patriots,27,84.4,53,96.4,1,2
+2025,NO,New Orleans Saints,Saints,30,71.4,28,100,0,0
+2025,NYG,New York Giants,Giants,23,88.5,36,87.8,1,0
+2025,NYJ,New York Jets,Jets,28,96.6,22,100,1,2
+2025,PHI,Philadelphia Eagles,Eagles,20,74.1,41,97.6,0,0
+2025,PIT,Pittsburgh Steelers,Steelers,27,84.4,42,97.7,0,0
+2025,SEA,Seattle Seahawks,Seahawks,41,85.4,48,100,1,2
+2025,SF,San Francisco 49ers,49ers,33,91.7,40,90.9,0,0
+2025,TB,Tampa Bay Buccaneers,Buccaneers,32,84.2,32,97,0,0
+2025,TEN,Tennessee Titans,Titans,29,80.6,27,96.4,0,2
+2025,WAS,Washington Commanders,Commanders,23,76.7,33,97.1,0,2

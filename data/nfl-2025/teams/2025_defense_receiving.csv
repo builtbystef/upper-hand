@@ -1,0 +1,33 @@
+season,team,team_name,nickname,Rec,Yds,Yds/Rec,TD,20+,40+,Lng,Lng_num,Lng_td,Rec 1st,Rec 1st%,Rec FUM,PDef
+2025,ATL,Atlanta Falcons,Falcons,331,3773,11.4,27,49,7,58,58,False,179,54.1,5,87
+2025,AZ,Arizona Cardinals,Cardinals,375,4128,11,31,52,6,67,67,False,215,57.3,4,81
+2025,BAL,Baltimore Ravens,Ravens,399,4403,11,23,64,9,62,62,False,198,49.6,2,73
+2025,BUF,Buffalo Bills,Bills,277,2894,10.4,19,38,1,40,40,False,144,52,3,62
+2025,CAR,Carolina Panthers,Panthers,336,3657,10.9,20,42,9,62T,62,True,180,53.6,2,64
+2025,CHI,Chicago Bears,Bears,355,4067,11.5,32,61,9,64,64,False,190,53.5,2,75
+2025,CIN,Cincinnati Bengals,Bengals,348,4175,12,33,60,5,68T,68,True,201,57.8,4,76
+2025,CLE,Cleveland Browns,Browns,308,3220,10.4,25,43,6,45,45,False,161,52.3,3,65
+2025,DAL,Dallas Cowboys,Cowboys,381,4521,11.9,35,58,14,65T,65,True,208,54.6,3,42
+2025,DEN,Denver Broncos,Broncos,343,3606,10.5,18,40,10,63,63,False,171,49.8,2,94
+2025,DET,Detroit Lions,Lions,342,4027,11.8,31,58,8,64T,64,True,193,56.4,7,93
+2025,GB,Green Bay Packers,Packers,360,3516,9.8,24,41,6,46T,46,True,178,49.4,1,59
+2025,HOU,Houston Texans,Texans,319,3486,10.9,20,47,7,66T,66,True,162,50.8,5,90
+2025,IND,Indianapolis Colts,Colts,397,4462,11.2,24,57,5,88T,88,True,216,54.4,2,79
+2025,JAX,Jacksonville Jaguars,Jaguars,396,3933,9.9,25,46,6,61T,61,True,197,49.8,4,107
+2025,KC,Kansas City Chiefs,Chiefs,340,3487,10.3,18,45,7,53,53,False,158,46.5,4,60
+2025,LA,Los Angeles Rams,Rams,377,3988,10.6,26,52,5,75,75,False,192,50.9,8,82
+2025,LAC,Los Angeles Chargers,Chargers,307,3314,10.8,16,37,7,75T,75,True,151,49.2,1,84
+2025,LV,Las Vegas Raiders,Raiders,359,3644,10.2,23,37,9,66T,66,True,175,48.8,3,52
+2025,MIA,Miami Dolphins,Dolphins,371,3920,10.6,29,50,3,59,59,False,186,50.1,3,53
+2025,MIN,Minnesota Vikings,Vikings,279,3021,10.8,15,32,5,80T,80,True,132,47.3,5,55
+2025,NE,New England Patriots,Patriots,350,3512,10,25,42,3,53,53,False,171,48.9,5,67
+2025,NO,New Orleans Saints,Saints,312,3336,10.7,25,44,7,53T,53,True,162,51.9,2,79
+2025,NYG,New York Giants,Giants,358,3908,10.9,25,49,3,87T,87,True,195,54.5,2,77
+2025,NYJ,New York Jets,Jets,336,3849,11.5,36,57,6,46,46,False,205,61,1,67
+2025,PHI,Philadelphia Eagles,Eagles,309,3476,11.2,14,46,13,77T,77,True,157,50.8,1,90
+2025,PIT,Pittsburgh Steelers,Steelers,396,4437,11.2,30,53,7,81,81,False,202,51,2,90
+2025,SEA,Seattle Seahawks,Seahawks,375,3619,9.6,20,44,7,65,65,False,176,46.9,3,96
+2025,SF,San Francisco 49ers,49ers,398,4110,10.3,29,45,5,50,50,False,199,50,5,56
+2025,TB,Tampa Bay Buccaneers,Buccaneers,379,4332,11.4,30,55,10,72T,72,True,206,54.4,5,69
+2025,TEN,Tennessee Titans,Titans,354,4221,11.9,30,58,9,63T,63,True,195,55.1,2,63
+2025,WAS,Washington Commanders,Commanders,350,4371,12.5,33,53,13,86T,86,True,216,61.7,3,70
